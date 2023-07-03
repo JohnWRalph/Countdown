@@ -176,7 +176,7 @@
   bottom: 0;
   left: 0;
   width: 100%;
-  transform: scaleY(2.5);
+  transform: scaleY(1.5);
 }
 
 
