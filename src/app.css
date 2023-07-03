@@ -33,7 +33,7 @@ body {
   background-color: #240035;
   background-image: linear-gradient(180deg, #5d0188 0%, #000000 100%);
   background-repeat: no-repeat;
-  background-image: url("src/assets/bg-stars.svg");
+  background-image: url("/bg-stars.svg");
   width:100vw;
 }
 

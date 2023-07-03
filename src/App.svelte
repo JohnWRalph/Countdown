@@ -107,7 +107,7 @@
   </div>
 </div>
 <div class="footer">
-  <img src="src/assets/pattern-hills.svg" alt="pattern hills" />
+  <img src="/pattern-hills.svg" alt="pattern hills" />
 </div>
 
 
